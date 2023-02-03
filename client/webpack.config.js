@@ -37,7 +37,7 @@ module.exports = () => {
         short_name: 'JATE',
         description: 'A simple text editor that can be used offline',
         background_color: '#225ca3',
-        theme_color: "225ca3",
+        theme_color: "#225ca3",
         start_url: '/',
         publicPath: '/',
         icons: [
