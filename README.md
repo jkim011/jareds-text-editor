@@ -3,6 +3,8 @@
   
   ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
     
+  ## Deployed application
+  https://jareds-text-editor.herokuapp.com/
 
   ## Table-of-Contents
   * [Description](#description)
@@ -20,9 +22,11 @@
   2. Run ```npm i``` to install dependencies
 
   ## Usage
-  * Launch application with the heroku link:  <br>
+  * Launch application with the heroku link: https://jareds-text-editor.herokuapp.com/ <br>
     Or after cloning repository: In terminal run ```npm run start```, open ```localhost:3000``` in the browser
   * Click ```Install``` button on the top left, and you can download the application as an icon on your desktop:
+  
+  ![PWA-newInstall](https://user-images.githubusercontent.com/112585959/217323788-610f17de-cc54-456f-b677-6f40b7f18223.png)
   
   ![PWA-install](https://user-images.githubusercontent.com/112585959/217315675-ea898498-de03-4742-a943-b6862f6d3e49.PNG)
   
