@@ -34,7 +34,7 @@
   
   ![PWA-sw](https://user-images.githubusercontent.com/112585959/217315494-a88cd240-0b10-407d-8fcc-597543ae0f47.PNG)
 
-  Application's IndexedDB storage:
+  Application's IndexedDB storage (if IndexedDB isn't showing, clear cache and rerun):
   
   ![PWA-indexeddb](https://user-images.githubusercontent.com/112585959/217315610-7f344133-c47d-45cb-b9c1-2619f2873719.PNG)
 
